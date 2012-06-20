@@ -1,7 +1,8 @@
 Janus
 =====
 
-My customization comprises the following:
+I've customized Janus with a nice colorscheme, a couple of plugins and a
+few key bindings. The following sections elaborate on those.
 
 ## Colorscheme
 
@@ -15,4 +16,4 @@ My customization comprises the following:
 
 ### Insert mode
 
-* Map <j><j> to <esc>
+* Map `<j><j>` to `<esc>`
