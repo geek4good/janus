@@ -13,3 +13,6 @@
 [submodule "slime"]
 	path = slime
 	url = git://github.com/jpalardy/vim-slime.git
+[submodule "scratch"]
+	path = scratch
+	url = https://github.com/duff/vim-scratch.git
