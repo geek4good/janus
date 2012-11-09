@@ -1,9 +1,15 @@
 [submodule "badwolf"]
 	path = badwolf
 	url = https://github.com/sjl/badwolf.git
-[submodule "vim-powerline"]
-	path = vim-powerline
-	url = https://github.com/Lokaltog/vim-powerline.git
 [submodule "powerline"]
 	path = powerline
 	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule "orgmode"]
+	path = orgmode
+	url = https://github.com/jceb/vim-orgmode.git
+[submodule "speeddating"]
+	path = speeddating
+	url = https://github.com/tpope/vim-speeddating.git
+[submodule "slime"]
+	path = slime
+	url = git://github.com/jpalardy/vim-slime.git
