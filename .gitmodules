@@ -16,3 +16,9 @@
 [submodule "scratch"]
 	path = scratch
 	url = https://github.com/duff/vim-scratch.git
+[submodule "threesome"]
+	path = threesome
+	url = https://github.com/sjl/threesome.vim.git
+[submodule "rename2"]
+	path = rename2
+	url = https://github.com/vim-scripts/Rename2.git
